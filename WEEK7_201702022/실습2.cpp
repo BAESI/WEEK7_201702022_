@@ -9,7 +9,6 @@ bool funcA() {
 	return true;
 }
 int main() {
-
 	try {
 		funcA();
 	}
